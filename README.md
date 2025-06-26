@@ -82,41 +82,27 @@ To begin, log into osTicket as an admin user using the credentials that were set
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/04A4Sz7.png"/> <img src="https://i.imgur.com/jVXTYJp.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src=""/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Next set up Users (the customers): Select Agents Panel > Users tab > Add User > Fill in credentials for users Karen and Ken > Add User
 </p>
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/dUZRNSj.png"/> <img src="https://i.imgur.com/4SsQDpR.png"/> <img src="https://i.imgur.com/ofbAD4Z.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src=""/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Configure SLA in order to assign ticket priority: Select Admin Panel > Managa > SLA > Add New SLA
+</p> - Create 3 SLA's with different grace periods and schedules
 </p>
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/xsnGZMj.png"/> <img src="https://i.imgur.com/ekALhqc.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Lastly, is configuring Help Topics for when users creaate tickets: Select Hot Topics tab > Add new 
+</p> - Create the follow Help Topics: Business Critical Outage - Parent Topic: Report a problem, Personal Computer Issues - Parent Topic: Report a problem , Equipment Request - Parent Topic: General Inquiry, Password Reset - Parent Topic: Report a problem, and Other - Parent Topic: General Inquiry
 </p>
 <br />
