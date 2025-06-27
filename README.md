@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/zezcGwY.jpeg"/>
 </p>
 <p>
-To begin, log into osTicket as an admin user using the credentials that were set in the previous lab
+- To begin, log into osTicket as an admin user using the credentials that were set in the previous lab
 </p>
 <br />
 
